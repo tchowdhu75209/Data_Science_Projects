@@ -2,6 +2,6 @@
 
 ## Contents:
 
-#### 1. Bankruptcy Detection - Tree Models vs non-tree model analysis
-#### 2. Firewall Detection
-#### 3. Parkinson Detection
+#### 1. Bankruptcy Detection - Classification Modeling
+#### 2. Firewall Case Study - Classification Modeling
+#### 3. Parkinson Detection - Classification Modeling
