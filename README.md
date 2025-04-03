@@ -2,6 +2,7 @@
 
 ## Contents:
 
-#### 1. Bankruptcy Detection - Classification Modeling
-#### 2. Firewall Case Study - Classification Modeling
-#### 3. Parkinson Detection - Classification Modeling
+#### 1. US-Rent_Analysis - Time Series Analysis on US Rent Prices
+#### 2. Bankruptcy Detection - Classification Modeling
+#### 3. Firewall Case Study - Classification Modeling
+#### 4. Parkinson Detection - Classification Modeling
